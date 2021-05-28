@@ -1,0 +1,23 @@
+iReport is an automative web prohject to sen reports in click. But this is just a demo project to iReport.
+it contains eatures of about 6 modules ater login (home,create user delete user,modify user, reset password,forgot password,logout)
+
+Login
+Home-> It contains dropdown box to select report and click send(Predefined receipts) or download buton respectivly. I just added one report for demo purpose.
+create user-> It create user with default password as Test@123. Later user can reset password using reset password button.
+delete user-> admin/manager/lead can able to delete user.
+modify user-> admin/manager/lead can able to modify user access.
+reset password-> user can able to change old password to new password.
+forgot password-> user can able to reset password using OTP to the registered mail.
+log out
+
+Points to note:
+
+To make it simple, minimum fields are used in tables.
+Used H2 database in the demo project to everyone exprience  it without much installation/configuration on your machine.
+Used Spring Boot.
+
+
+Further more details will be added in future.
+
+Thanks.!
+
